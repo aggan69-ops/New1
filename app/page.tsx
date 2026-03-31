@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>CRM fungerar 🚀</h1>;
+  return <div>ok</div>;
 }
